@@ -1,0 +1,5 @@
+# Core library for binary MARC processing
+pymarc>=5.1.0
+
+# Standard library handles XML (xml.etree.ElementTree), 
+# so no additional XML library is strictly required.
