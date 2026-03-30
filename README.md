@@ -1,4 +1,4 @@
-# A port of the NLM validator to a data access layer
+# A port of the NLM MARC validator to a data access layer
 
 The file bib_validator.py is originally taken from the [NLM Discovery Alma Tools](https://github.com/NIH-NLM/nlm-discovery-alma-tools/tree/main/Alma%20Validation/Bib%20Validator) repo.  It has been converted to use a format-independent MARC data access layer, which is provided in this repo.
 
