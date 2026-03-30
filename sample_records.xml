@@ -1,0 +1,36 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000nam a2200000i 4500</leader>
+    <controlfield tag="001">12345678</controlfield>
+    <controlfield tag="008">230101s2023    xxu           000 0 eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="9">ocm12345</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">The Great Python Refactor /</subfield>
+      <subfield code="c">by A. Coder.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">200 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">23 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" "><subfield code="a">text</subfield></datafield>
+    <datafield tag="337" ind1=" " ind2=" "><subfield code="a">unmediated</subfield></datafield>
+    <datafield tag="338" ind1=" " ind2=" "><subfield code="a">volume</subfield></datafield>
+  </record>
+
+  <record>
+    <leader>00000nam a2200000i 4500</leader>
+    <controlfield tag="008">230101s2023    xxu           000 0 eng d</controlfield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Medical History :</subfield><subfield code="c">an overview</subfield></datafield>
+    <datafield tag="300" ind1=" " ind2=" "><subfield code="a">50 cm.</subfield></datafield>
+    <datafield tag="999" ind1=" " ind2=" "><subfield code="a">IDX</subfield></datafield>
+  </record>
+
+  <record>
+    <leader>short</leader>
+    <datafield tag="999" ind1=" " ind2=" "><subfield code="a">SKIP_ME</subfield></datafield>
+  </record>
+
+  </collection>
