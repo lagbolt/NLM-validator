@@ -24,6 +24,10 @@ An implementation of the data access layer using the PyMarc library to interpret
 
 A port of the original code to use the routines defined in marc_interfaces.py.
 
+### marc_validation_resouces.py
+
+Utilties copied unchanged from the NLM repo.
+
 ### marc_factory.py
 
 Defines a utility function, get_record_generator, that reads records from a file, using either the XML or the PyMarc implementation depending on the file suffix.
